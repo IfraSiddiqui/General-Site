@@ -1,0 +1,144 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.logo{
+	display: inline-block;
+	margin-left: 5%;
+	width:35%;
+
+}
+
+.main-nav{
+	display: flex;
+	background-color:#fff ;
+	padding: 20px;
+}
+
+.nav{
+	margin-left: 500px;
+}
+
+
+.nav ul li{
+	padding: 10px;
+	list-style: none;
+
+}
+
+
+.nav ul{
+	display: flex;
+}
+.nav li a{
+	text-decoration: none;
+	color: black;
+}
+
+.nav li a:hover{
+	color: #EE3B16;
+}
+
+
+.para{
+
+	position: absolute;
+	left: 30%;
+	bottom: 40%;
+
+
+}
+.para h1{
+	color: white;
+	font-size: 50px;
+	margin-bottom: 30px;
+	font-family: monospace;
+
+}
+.para button{
+	padding: 20px 55px;
+	background-color: transparent;
+	margin-left: 100px;
+	font-family: inherit;
+	box-shadow: 1px 1px 2px white;
+
+
+
+}
+
+.section-button button:hover{
+
+	        background-color: lightgray;
+	        color: black;
+
+}
+.para a{
+	padding: 20px 10px;
+	color: white;
+	font-size: 20px;
+	margin-left: 50px;
+	text-decoration: none;
+
+}
+
+.section-2{
+	display: flex;
+	justify-content: center;
+	margin-top: 30px;
+
+}
+.team{
+	    font-size: 2.4em;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+        color: #060606;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 1.17em;
+    margin: 0 0 20px;
+}
+
+.border{
+	    display: block;
+    width: 80px;
+    height: 2px;
+    background: #060606;
+    margin: 0 auto;
+}
+
+.head{
+	padding: 10px;
+
+}
+.head h4{
+	    font-size: 1em;
+    text-transform: uppercase;
+    font-weight: 400;
+    text-align: center;
+}
+.head em{
+	font-family: times new roman,Times,serif;
+    font-style: italic;
+    text-transform: lowercase;
+    color: #424242;
+    text-align: center;
+
+}
+
+.head p{
+	color: #424242;
+    line-height: 1.6em;
+    margin: 0 0 20px;
+    margin-top: 20px;
+    text-align: center;
+
+}
+
+
+.part-2{
+	padding: 10px;
+}
+.part-3{
+	padding: 10px;
+}
+
